@@ -1,0 +1,8 @@
+# KiCad backup and temporary files
+*.bak
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+_autosave-*
+fp-info-cache
+*.lck
