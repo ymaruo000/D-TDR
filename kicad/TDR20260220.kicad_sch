@@ -423,7 +423,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf"
+			(property "Datasheet" "~"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1170,7 +1170,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.tracopower.com/products/tba2.pdf"
+			(property "Datasheet" "~"
 				(at 0 -6.35 0)
 				(effects
 					(font
@@ -2127,7 +2127,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC"
+			(property "Datasheet" "~"
 				(at -2.54 0 0)
 				(effects
 					(font
@@ -4577,7 +4577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC"
+		(property "Datasheet" "~"
 			(at 33.02 76.2 0)
 			(effects
 				(font
@@ -4779,7 +4779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf"
+		(property "Datasheet" "~"
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -4883,7 +4883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf"
+		(property "Datasheet" "~"
 			(at 71.12 101.6 0)
 			(effects
 				(font
@@ -6440,7 +6440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm321.pdf"
+		(property "Datasheet" "~"
 			(at 241.3 73.66 0)
 			(effects
 				(font
@@ -6515,7 +6515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl3116.pdf"
+		(property "Datasheet" "~"
 			(at 177.8 78.74 0)
 			(effects
 				(font
@@ -8173,7 +8173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.tracopower.com/products/tba2.pdf"
+		(property "Datasheet" "~"
 			(at 62.23 152.4 0)
 			(effects
 				(font
