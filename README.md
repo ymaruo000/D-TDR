@@ -28,14 +28,19 @@ docs/
   TDR20260220.csv       Bill of materials
 ```
 
+
 ## Requirements
 
-- [KiCad](https://www.kicad.org/) (v6 or later) to open and edit the design files
+- [KiCad](https://www.kicad.org/) 9.0 or later to open and edit the design files (the files were saved with KiCad 9.0 and cannot be opened in earlier versions)
 - PDF viewer to browse the schematic and PCB layout
+
+## Notes on Components
+
+- The comparator (U2, NJM360, Nisshinbo Micro Devices) has been discontinued.
 
 ## Reference
 
-Maruo, Y., Fujita, Y., and Noborio, K.: A low-cost duty-ratio time domain reflectometry (D-TDR) for soil permittivity measurement. J. Jpn. Soc. Soil Phys. (submitted).
+Maruo, Y., Fujita, Y. and Noborio, K. (2026): A low-cost Duty-ratio Time Domain Reflectometry (D-TDR) for soil permittivity measurement. J. Jpn. Soc. Soil Phys., 164 (in press).
 
 ## License
 
