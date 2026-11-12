@@ -14,7 +14,6 @@ The output voltage V_DTDR is linearly proportional to sqrt(Ka), enabling direct 
 
 ## Features
 
-- Total circuit board component cost: less than USD 30
 - No waveform digitization or dedicated TDR instrumentation required
 - Medium-independent calibration using air and water only
 - Full compatibility with established Ka-theta relationships (e.g., Topp et al., 1980)
